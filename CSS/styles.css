@@ -1,0 +1,156 @@
+.top {
+  background-color: #2596be;
+  height: .5%;
+  width: 100%;
+  margin: 0;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.menu_bar {
+  position: absolute;
+  background-color: #f4f4ef;
+  width: 100%;
+  height: 75px;
+  top: 4px;
+}
+
+.below_menu {
+  background-color: black;
+  height: 2px;
+  width: 100%;
+  margin: 0;
+  top: 74px;
+  left: 0;
+  position: absolute;
+}
+
+.hcpss_logo {
+  padding-top: .25%;
+  width: 16%;
+}
+
+.fake_button {
+  display: inline-block;
+  position: relative;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+  left: 70%;
+  bottom: 30%;
+  font-size: 20px;
+  color: #424c54;
+}
+
+body {
+  background-color: #f4f4ef;
+}
+
+.one {
+  height: 200px;
+  width: 100%;
+  position: relative;
+}
+
+.heading_article {
+  padding-top: 7.5%;
+  padding-left: 6%;
+  position: relative;
+  display: inline-block;
+  font-size: 40px;
+  color: #595959;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.text_body {
+  height: 200px;
+  width: 100%;
+  position: relative;
+}
+
+.awsomebody {
+  display: inline-block;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+  color: #424c54;
+  padding-left: 6%;
+  padding-right: 27%;
+}
+
+.event_body {
+  width: 100%;
+  position: relative;
+}
+
+.awsomebody_chunky {
+  display: inline-block;
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: #424c54;
+  padding-left: 6%;
+  padding-right: 10%;
+}
+
+.gloved_hand {
+  display: block;
+  position: relative;
+  left: 80%;
+  bottom: 120%;
+  border-style: solid;
+  border-color: #595959;
+  border-radius: 10px;
+}
+
+.awsomebodybold {
+  display: inline-block;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: #424c54;
+  padding-left: 6%;
+  padding-right: 27%;
+  padding-bottom: 0;
+  font-size: 20px;
+}
+
+.links1 {
+  padding-left: 6%;
+  font-family: Helvetica, sans-serif;
+  font-weight: bolder;
+  color: #2596be;
+}
+
+.br_bottom {
+  position: relative;
+  background-color: #2596be;
+  height: 5px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  left: 0;
+}
+
+.bottom_disclaimer {
+  position: absolute;
+  background-color: #09427b;
+  width: 100%;
+  left: 0
+}
+
+.disclaimer_title {
+  font-family: Helvetica, sans-serif;
+  font-weight: bolder;
+  padding-left: 3%;
+  color: white;
+  font-size: 25px;
+}
+
+.disclaimer_text {
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  padding-left: 3%;
+  color: white;
+  font-size: 15px;
+}
